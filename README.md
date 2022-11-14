@@ -1,2 +1,4 @@
 # Tambos_MIDIS_Peru
- Web scraping of the "PAIS" social program web page to obtain information on the "Tambos" (fixed platforms in rural areas) at the district level in Peru.
+Web scraping de la página del programa "PAIS" (MIDIS) para obtener información de los "Tambos" (plataformas fijas en zonas rurales) a nivel distrital del Perú 
+
+![](static/PAIS_program.jpg)
